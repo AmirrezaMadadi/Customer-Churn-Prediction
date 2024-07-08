@@ -2,7 +2,7 @@
 ## Goal : 
 According to the latest surveys we conducted last month, our bank's customers are decreasing.
 In the first step, we intend to understand the reason(s) for this sudden churn.
-In the next step, we will try to design a model that will detect whether a customer with certain characteristics may intend to leave our bank or not.
+In the next step, we will try to design a model that will detect whether a customer with certain features may intend to leave our bank or not.
 
 ## Approach : 
 Therefore, in the first step, we explain the reasons with the tools and science we have.
