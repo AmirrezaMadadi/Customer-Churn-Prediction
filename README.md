@@ -1,4 +1,5 @@
 ## Customer-Churn-Prediction
+![](https://i.pinimg.com/564x/42/52/8d/42528d1087d97b1274aa14d676ee1ef7.jpg)
 ## Goal : 
 According to the latest surveys we conducted last month, our bank's customers are decreasing.
 In the first step, we intend to understand the reason(s) for this sudden churn.
